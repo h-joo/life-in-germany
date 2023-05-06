@@ -1,14 +1,14 @@
 # Life in Germany (Leben in Deutschland)
-This is a documentation-style repository to provide guidance for **tech people** who wants to settle in (or try out living in) Germany. The owner of this repository has studied computer science and been working as a software engineer in Germany for quite a while, I've struggled a lot and still in the contiunation of struggling as many things are just different. 
+This is a documentation-style repository to provide guidance for **tech people** who wants to settle in (or try out living in) Germany. The owner of this repository has studied computer science and been working as a software engineer in Germany for quite a while, I've struggled a lot and still in the contiunation of struggling as many things are just different. There are many good channels that you can ask for questions regarding life in Germany, but I feel I still haven't found a place where the whole process of settlement is organized, thus triggered me to create this repository.
 
 Of course, there can be multiple aspects of information providing, but to group in to two big categories, 
 
 1. :information_source: Things that can be objective (e.g. the process of getting a visa, getting registered and etc.)
 1. :thinking: Talking about things that are subjective, where one thing can be differently interpreted from people coming from different cultural background.
 
-I'll try to distinguish those two and annotate with the icons that I used for each. 
+I'll try to distinguish those two cases and annotate with the icons (:information_source:, :thinking:)  that I used for each. 
 
-To give an understanding of my background, I come from South Korea, of which is a fast changing, yet a relatively conservative sociecty compared to western EU countries. Vast majority of the things there changes very fast, and the fastness is also blended into the daily life, and its very common to see people rushing to catch up with something (bus, commute, whatever). South Korea is a big advocate of capitalism, and a bit distant in the plane in the socialism spectrum compared to Germany.
+To provide an understanding of my background, I come from South Korea, of which is a fast changing, yet a relatively conservative sociecty compared to western EU countries. Vast majority of the things there changes very fast, and the fastness is also blended into the daily life, and its very common to see people rushing to catch up with something (bus, commute, whatever). South Korea is a big advocate of capitalism, and a bit distant in the plane in the socialism spectrum compared to Germany.
 
 The name of the repo is followed by the Naturalization test ["Leben In Deutschland"](https://de.wikipedia.org/wiki/Einb%C3%BCrgerungstest)
 
