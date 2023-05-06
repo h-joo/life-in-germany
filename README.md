@@ -1,7 +1,7 @@
 # Life in Germany (Leben in Deutschland)
 This is a documentation-style repository to provide guidance for **tech people** who wants to settle in (or try out living in) Germany. The owner of this repository has studied computer science and been working as a software engineer in Germany for quite a while, I've struggled a lot and still in the contiunation of struggling as many things are just different. 
 
-Of course, there can be multiple aspect of information providing, but to group in to two big categories, 
+Of course, there can be multiple aspects of information providing, but to group in to two big categories, 
 
 1. :information_source: Things that can be objective (e.g. the process of getting a visa, getting registered and etc.)
 1. :thinking: Talking about things that are subjective, where one thing can be differently interpreted from people coming from different cultural background.
@@ -17,6 +17,6 @@ The name of the repo is followed by the Naturalization test ["Leben In Deutschla
 1. Arriving in Germany
 1. Studying in Germany
 1. Getting a Tech Job
-1. Settlement Permit (Niederlassungserlaubnis)
-1. How do I know if I fit well?
+1. Getting a Settlement Permit (Niederlassungserlaubnis)
+1. How do I know if I fit well in Germany?
 1. Where should I live in Germany?
