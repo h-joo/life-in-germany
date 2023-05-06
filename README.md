@@ -12,8 +12,6 @@ Of course, there can be multiple aspects of information providing, but to group 
 
 I'll try to distinguish those two cases and annotate with the icons (:information_source:, :thinking:)  that I used for each. 
 
-To provide an understanding of my background, I come from South Korea, of which is a fast changing, yet a relatively conservative sociecty compared to western EU countries. Vast majority of the things there changes very fast, and the fastness is also blended into the daily life, and its very common to see people rushing to catch up with something (bus, commute, whatever). South Korea is a big advocate of capitalism, and a bit distant in the plane in the socialism spectrum compared to Germany. It's also one of the safest countries in terms of criminal rate, which I think seems to be a bit less nowadays.
-
 The name of the repo is followed by the Naturalization test ["Leben In Deutschland"](https://de.wikipedia.org/wiki/Einb%C3%BCrgerungstest)
 
 # Table of Contents
