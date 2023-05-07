@@ -1,7 +1,8 @@
-# Getting A Tech Job
+# Getting a tech job ℹ️🤔
 
-## Shortest path to getting jobs ?
-## Platform to look for jobs
+## Student jobs
+## Shortest path to getting jobs? 🤔
+## Platform to look for jobs ℹ️
 
 - [linkedin.com](https://www.linkedin.com)
 - [xing.com](https://www.xing.com)
@@ -10,18 +11,21 @@
 - [talent.io](https://www.talent.io)
 - [berlinstartupjobs](https://berlinstartupjobs.com/de/)
 
-## Looking for salary information
+TBD: Big companies sometimes do not offer jobs in these platforms.
+
+## Looking for salary information ℹ️
 
 - glassdoor
 - payscale.com
 - levels.fyi
 - Yearly reports from talent.io
 
-Googling for "'company name' + 'title' + 'germany' + 'Salary'" 
+Google for "'company name' + 'title' + 'germany' + 'Salary'" 
 
-## Applying for jobs
+## Applying for jobs ℹ️🤔
+## Different working culture in different industries🤔
 
-## How to look for job trends
+## How to look for job trends ℹ️
 
 ## After getting a Job
-### Tax declaration
+### End-year tax declaration ℹ️
