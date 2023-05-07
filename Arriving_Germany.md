@@ -16,7 +16,7 @@ Depending on whether you're eligible for 90 days of Schengen Visa or not, you'll
 
 ## Getting an apartment to live in ℹ️
 
-I've split this into another document, you can read about this in [Housing](https://github.com/h-joo/life-in-germany/edit/main/Housing.md)
+I've split this into another document, you can read about this in [Housing](https://github.com/h-joo/life-in-germany/blob/main/Housing.md)
 
 ## Register at your City ( Wohnungsanmeldung ) ℹ️
 
