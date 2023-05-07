@@ -3,14 +3,19 @@
 There is an exact sequence of steps that you need to take before you can do anything in Germany.
 
 ## Table Of Contents 
-- [Entering Germany](#entering-germany)
-- Get an apartment to live in
+- Entering Germany ℹ️
+- Get an apartment to live in ℹ️
   - Making Contact
     - Contacting the landlords for individual apartments
     - Contacting the main tenant (Hauptmieter/*-in) for shared apartements
   - Apartment view (Besichtigungstermin)
   - Apartment control and signing the rental contract.
   - Alternatives
+  - Cancellation of the rental contract
+- Register at your City ( Wohnungsanmeldung ) ℹ️
+- Open a bank Account ℹ️
+- Get a health insurance ℹ️
+- Get a residence permit ℹ️
 
 ## Entering Germany ℹ️
 
@@ -31,6 +36,8 @@ There are some web-platforms to find an accomodation.
 1. some facebook groups to share local rents
 
 Sadly, most of the people in these platforms only speak German, so if you don't have anybody to help, use an online translator to translate.
+
+For more information about housing, see [housing in Germany](https://www.eu-gleichbehandlungsstelle.de/eugs-en/eu-citizens/information-center/housing)
 
 ### Making contact
 
@@ -61,17 +68,25 @@ You might do the apartment view alone, or it can be like an open visit for many 
 
 ### Apartment control and signing the rental contract.
 
-TBD
+On the day of signing the rental contract, you usually meet at your new apartment and do something called hand over protocol ([Übergabeprotokoll](https://de.wikipedia.org/wiki/Wohnungs%C3%BCbergabeprotokoll))
 
 ### Alternatives
 
 The process for looking an apartment can be quite stressful sometimes; and maybe you have money but not the time as your resource and you don't speak German which makes it worse. In that case, the best option for you would be contacting real estate agencies which can find apartments for you. They will get commissions for search (maybe in a scale of thousands of Euros upon signing the rental contract) depending on the apartment, but this will be much more easier as they'll do all the work for you and look for apartments which suits you.
 
+Other alternatives for looking apartments can be online communities using your own language. If you come from a country which has a decent number of migrants in Germany, you'll most likely find a corresponding online community which also occasionally have some feature to rent out apartments to people. Sometimes its easier to find apartment in those because the competetition is less severe, and you'll have less problems with communication.
+
+### Cancellation of the rental contract
+
+It might not be explicit in the rental contract, but it is (Citation needed) assumed by the law that there is a 3 month of notice period of cancellation of your rental contract. Always keep in mind this period if you're trying to move to another city or an apartment, otherwise you'll have to pay for the remaining notice period if you move out earlier. To avoid this on a quick moveout, you can look for a next tenent ([NachMieter](https://de.wikipedia.org/wiki/Nachmieter)), but whether your landlord accepts this new person or not is totally up to their decision, and if they don't you'll still have to pay.
+
 ## Register at your City ( Wohnungsanmeldung ) ℹ️
 
-Once you have a rental contract 
+Once you have a rental contract you now can finally register to a city. You can search for "Wohnungsanmeldung" + <name of the city your apartment is present> in google to find a website which you can learn about . In bigger cities, the appointment is almost always fully booked out, 
 
 ## Open a bank Account ℹ️
+
+For non-online banks, you are required to have an registered 
 
 ## Get a health insurance ℹ️
 
