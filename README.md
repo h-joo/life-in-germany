@@ -8,7 +8,7 @@ This is a documentation-style repository to provide guidance for **tech people**
 Of course, there can be multiple aspects of information providing, but to group in to two big categories, 
 
 1. :information_source: Things that can be objective (e.g. the process of getting a visa, getting registered and etc.)
-1. :thinking: Talking about things that are subjective, where one thing can be differently interpreted from people coming from different cultural background.
+1. :thinking: Talking about things that are subjective or something based on personal experience without much data to back up.
 
 I'll try to distinguish those two cases and annotate with the icons (:information_source:, :thinking:)  that I used for each. 
 
