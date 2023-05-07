@@ -12,6 +12,18 @@ TBD
 
 TBD
 
+## Strong labor protection laws :thinking:
+
+TBD
+
+## Bureaucracy in Germany :thinking:
+
+TBD
+
+## Healthcare system :thinking:
+
+TBD
+
 ## Raising children :thinking:
 
 TBD
