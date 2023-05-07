@@ -23,6 +23,7 @@ TBD: Big companies sometimes do not offer jobs in these platforms.
 Google for "'company name' + 'title' + 'germany' + 'Salary'" 
 
 ## Applying for jobs ℹ️🤔
+## Application process time🤔
 ## Different working culture in different industries🤔
 
 ## How to look for job trends ℹ️
