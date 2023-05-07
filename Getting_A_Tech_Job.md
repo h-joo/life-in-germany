@@ -18,6 +18,8 @@
 
 Googling for "'company name' + 'title' + 'germany' + 'Salary'" 
 
+## Applying for jobs
+
 ## How to look for job trends
 
 ## After getting a Job
