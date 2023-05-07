@@ -55,7 +55,7 @@ TBD
 
 ### Alternatives
 
-The process for looking an apartment can be quite stressful sometimes; and maybe you have money but not the time as your resource and you don't speak German which makes it worse. In that case, the best option for you would be contacting real estate agencies which can find apartments for you. They will get commissions for search (maybe in a scale of thousands of Euros) depending on the apartment, but this will be much more easier as they'll do all the work for you and look for apartments which suits you.
+The process for looking an apartment can be quite stressful sometimes; and maybe you have money but not the time as your resource and you don't speak German which makes it worse. In that case, the best option for you would be contacting real estate agencies which can find apartments for you. They will get commissions for search (maybe in a scale of thousands of Euros upon signing the rental contract) depending on the apartment, but this will be much more easier as they'll do all the work for you and look for apartments which suits you.
 
 ## Register at your City ( Wohnungsanmeldung ) ℹ️
 
