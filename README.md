@@ -16,7 +16,7 @@ The name of the repo is followed by the Naturalization test ["Leben In Deutschla
 
 # Table of Contents
 
-1. Arriving in Germany
+1. [Arriving Germany](https://github.com/h-joo/life-in-germany/blob/main/ArrivingGermany.md)
 1. Studying in Germany
 1. Getting a Tech Job
 1. Getting a Settlement Permit (Niederlassungserlaubnis)
