@@ -1,12 +1,68 @@
-# Arriving in Germany
-There is a sequence of steps that you need to take before you can do anything in Germany. This page explains what you need to do in that exact sequence.
+# Arriving Germany
 
-## Get an apartment to live
+There is an exact sequence of steps that you need to take before you can do anything in Germany.
 
-## Register at your City ( Wohnungsanmeldung )
+## Entering Germany ℹ️
 
-## Open a bank Account
+Depending on whether you're eligible for 90 days of Schengen Visa or not, you'll need to get a visa to enter Germany. Every country is different in this matter, so I'll not cover how you'd get a permit to enter Germany.
 
-## Get a health insurance
+## Get an apartment to live ℹ️
 
-## Get a valid residence permit
+> **Warning** Looking for an apartment is difficult, espcially when you don't speak the language. In some of the platforms for apartment-searching there are scammers of which trying to ask you for money transfers in advance without showing you the room saying that they're currently living abroad or something like that. DO NOT transfer money to these people, these are most likely scammers that you'd never be able to get that money back again.
+
+Looking for an apartment is quite cumbersome in Germany especially in big major cities (Berlin, Cologne, Frankfurt, Hamburg, Munich), as the population is outgrowing the capacity. It should depend on your reason to moving into Germany, but if you're trying to look for a new job or trying to become a university student, you'll most likely have to move again for your job or for your studies. So my best recommendation is that you look for an accomodation where you consider temporary. There are cities which has some decent living price, yet still close to the big cities, so do your research to find a city that you want to live temporarily and move to the city once you've need. [Here's](https://www.studying-in-germany.org/cost-of-living-in-germany/) a site (2022) where you can have a grasp of the living costs in big Germany cities.
+
+There are some web-platforms to find an accomodation.
+
+1. [wg-gesucht.de](https://www.wg-gesucht.de/) : You can find shared apartments here. It can be both short or long term, students usually use this platform to find a new place to live in the city they're studying or in case they're doing internship in other cities. 
+1. [immobilienscout24.de](https://www.immobilienscout24.de/) : A platform where apartments owned by companies or individual landlords are posted. Most popular option in Germany
+1. [immowelt.de](https://www.immowelt.de/): Similar as immobilientscout24, but a different web site.
+1. [ebay-kleinanzeigen](https://www.kleinanzeigen.de/): ebay-kleinanzeigen is a like a second-hand online shop where each individual sells their used products. You can also look for apartments under `Wohnung`.
+1. some facebook groups to share local rents
+
+Sadly, most of the people in these platforms only speak German, so if you don't have anybody to help, use an online translator to translate.
+
+### Making contact
+
+#### Contacting the landlords for individual apartments
+
+This section is for when you're looking for apartments for your own use such as in immobilienscout24.de.
+
+Especially in big cities, it's really hard to find an apartment and thus landlords can actually be very picky. Tenent protection law in Germany is quite strict, which also makes landlords to be a bit defensive in tenent finding, because it's pretty difficult to kick people out. So it's not so uncommon that applicants voulentarily send out their personal information such as below, otherwise in many cases you won't even get a reponse from your email or your message.
+
+1. Copy of Schufa or Mietschuldenfreiheitsbescheinigung : Schufa is a Germany used certification of your credit status which is very commonly used in rental contracts. Mietschuldenfreiheitsbescheinigung is a proof from your former landlord that you have nothing in debt to your landlord in terms of rent.
+1. Copy of Personal ID
+1. Proof of income or a working contract
+1. A letter describing yourself in German
+
+For many of the houses, pets are not allowed. (Citation needed) I think for cats they're slightly different from dogs that landlords cannot really prohibit you from having cats and you're also not obligated to notify them, but for dogs you cannot have them without landlord's concent. In the letters that I wrote, I wrote things such as introducing myself and the reason of staying, say that I don't smoke, don't have pets, do not play musical instruments and do not make parties at home and so on. These are the things that landlord tends to care about, so I usually include those in my introductory mail or an inquiry for an apartment. 
+
+One tip that you can get ahead of other applicants in the competitive situations and you really want the apartment, you can try to tell them to pay X months of rents in advance such that although you might lack some documents (e.g. Schufa) due to not being in Germany for the past, they might be confident you will be paying the rent stabily as you're financially stable. 
+
+#### Contacting the main tenant (Hauptmiete) for shared apartements
+
+This section is for when you're looking for shared apartments such as in wg-gesucht or other facebook apartment finding 
+
+Looking for a shared apartment is usually easier than renting a whole apartment as the main tenent (Hauptmiete) is already took the apartment from the landlord and they're taking the risks. Many cases, introducing yourself and asking for a apartment view should suffice.
+
+### Apartment view (Besichtigungstermin)
+
+TBD
+
+### Apartment control and signing the rental contract.
+
+TBD
+
+### Alternatives
+
+
+
+## Register at your City ( Wohnungsanmeldung ) ℹ️
+
+Once you have a rental contract 
+
+## Open a bank Account ℹ️
+
+## Get a health insurance ℹ️
+
+## Get a residence permit ℹ️
