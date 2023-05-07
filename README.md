@@ -12,7 +12,7 @@ Of course, there can be multiple aspects of information providing, but to group 
 
 I'll try to distinguish those two cases and annotate with the icons (:information_source:, :thinking:)  that I used for each. 
 
-The name of the repo is followed by the Naturalization test ["Leben In Deutschland"](https://de.wikipedia.org/wiki/Einb%C3%BCrgerungstest)
+The name of the repo followed the name of Naturalization test ["Leben In Deutschland"](https://de.wikipedia.org/wiki/Einb%C3%BCrgerungstest)
 
 # Table of Contents
 
