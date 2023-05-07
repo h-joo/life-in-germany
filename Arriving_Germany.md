@@ -79,8 +79,8 @@ If you already have a career, you'll most likely follow the track of
 
 if you're trying to look a job while being present in Germany. 
 
-Each of the link has whole information and what you need to apply, and it should be pretty straightforward, but one thing to note between the difference of job seeking for Germany university graudates and non-graduates is that you can actually work with the Job seeking visa if you have graduated from Germany, and it can be extended upto 18 months. 
+Each of the link has whole information and what you need to apply, and it should be pretty straightforward, but one thing to note between the difference of job seeking for German university graudates and non-graduates is that you can actually work with the Job seeking visa if you have graduated from Germany, and it can be extended upto 18 months. 
 
 And maybe also one more thing to note, Germany is short on skilled workers and thus has a low migration hurdle due to the presence of Blue Card. If you are qualified for Blue Card and a working contract, your company doesn't have to do anything to convince or justify the immigration office or the labor office that they need you. 
 
-One hurdle that might get in the way is whether your university is recognized by the Geman govermant or your subject of study aligns to what the immigrant office expects - if you studied a hybrid topic such as Bio Information theory, it might not be fully accepted by the offices so you need to fight for it and need to justify or maybe need a lawyer to get through the process, but this happens rarely.
+One hurdle in the process of getting a Blue card that might get in the way (which is a bit uncommon but still happens sometimes) is, whether your graduated university is properly recognized by the German govermant or your subject of study aligns to what the immigrant office expects - if you studied a hybrid topic such as Bio Information theory, it might not be fully accepted by the offices so you need to fight for it and need to justify or maybe need a lawyer to get through the process.
