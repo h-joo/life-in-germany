@@ -20,3 +20,5 @@ Googling for "'company name' + 'title' + 'germany' + 'Salary'"
 
 ## How to look for job trends
 
+## After getting a Job
+### Tax declaration
