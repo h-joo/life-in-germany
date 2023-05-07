@@ -39,15 +39,15 @@ For many of the houses, pets are not allowed. (Citation needed) I think for cats
 
 One tip that you can get ahead of other applicants in the competitive situations and you really want the apartment, you can try to tell them to pay X months of rents in advance such that although you might lack some documents (e.g. Schufa) due to not being in Germany for the past, they might be confident you will be paying the rent stabily as you're financially stable. 
 
-#### Contacting the main tenant (Hauptmiete) for shared apartements
+#### Contacting the main tenant (Hauptmieter/*-in) for shared apartements
 
 This section is for when you're looking for shared apartments such as in wg-gesucht or other facebook apartment finding 
 
-Looking for a shared apartment is usually easier than renting a whole apartment as the main tenent (Hauptmiete) is already took the apartment from the landlord and they're taking the risks. Many cases, introducing yourself and asking for a apartment view should suffice.
+Looking for a shared apartment is usually easier than renting a whole apartment as the main tenent (Hauptmieter/*-in) has already took the apartment from the landlord and they're taking the risks. Many cases, introducing yourself and asking for a apartment view should suffice.
 
 ### Apartment view (Besichtigungstermin)
 
-TBD
+You might do the apartment view alone, or it can be like an open visit for many people who're interested to save some time. Either way, you SHOULD bring the aforementioned documents with you to show how serious you are in your visit and hand them to the landlord or the real-estate agent who's acting on behalf.
 
 ### Apartment control and signing the rental contract.
 
@@ -55,7 +55,7 @@ TBD
 
 ### Alternatives
 
-
+The process for looking an apartment can be quite stressful sometimes; and maybe you have money but not the time as your resource and you don't speak German which makes it worse. In that case, the best option for you would be contacting real estate agencies which can find apartments for you. They will get commissions for search (maybe in a scale of thousands of Euros) depending on the apartment, but this will be much more easier as they'll do all the work for you and look for apartments which suits you.
 
 ## Register at your City ( Wohnungsanmeldung ) ℹ️
 
