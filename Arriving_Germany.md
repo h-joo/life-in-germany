@@ -2,14 +2,6 @@
 
 There is an exact sequence of steps that you need to take before you can do anything in Germany.
 
-## Table Of Contents 
-- Entering Germany ℹ️
-- Get an apartment to live in ℹ️
-- Register at your City ( Wohnungsanmeldung ) ℹ️
-- Open a bank Account ℹ️
-- Get a health insurance ℹ️
-- Get a residence permit ℹ️
-
 ## Entering Germany ℹ️
 
 Depending on whether you're eligible for 90 days of Schengen Visa or not, you'll need to get a visa to enter Germany. Every country is different in this matter, so I'll not cover how you'd get a permit to enter Germany.
