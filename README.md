@@ -12,14 +12,14 @@ Of course, there can be multiple aspects of information providing, but to group 
 
 I'll try to distinguish those two cases and annotate with the icons (:information_source:, :thinking:)  that I used for each. 
 
-The name of the repo followed the name of Naturalization test ["Leben In Deutschland"](https://de.wikipedia.org/wiki/Einb%C3%BCrgerungstest)
+The name of the repo followed the name of the Naturalization test ["Leben In Deutschland"](https://de.wikipedia.org/wiki/Einb%C3%BCrgerungstest)
 
 # Table of Contents
 
 1. [Arriving Germany](https://github.com/h-joo/life-in-germany/blob/main/Arriving_Germany.md) :information_source:
 1. [Studying in Germany](https://github.com/h-joo/life-in-germany/blob/main/Studying_In_Germany.md) :information_source:
 1. [Getting a Tech Job](https://github.com/h-joo/life-in-germany/blob/main/Getting_A_Tech_Job.md) :information_source:
-1. [How do I know if I fit well in Germany?](https://github.com/h-joo/life-in-germany/blob/main/Fitting_In_Germany.md) :thinking: 
 1. [Getting a Settlement Permit (Niederlassungserlaubnis)](https://github.com/h-joo/life-in-germany/blob/main/Getting_A_Settlement_Permit.md) :information_source:
-1. Which city should I live in Germany? :thinking: 
-1. Life Hacks and Tips
+1. [Life Hacks and Tips](https://github.com/h-joo/life-in-germany/blob/main/Life_Hacks_And_Tips.md) :information_source: :thinking:
+1. [How do I know if I fit well in Germany?](https://github.com/h-joo/life-in-germany/blob/main/Fitting_In_Germany.md) :thinking: 
+1. [Which city should I live in Germany?](https://github.com/h-joo/life-in-germany/blob/main/Which_City_To_Live.md) :thinking: 
