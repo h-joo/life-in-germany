@@ -1,5 +1,6 @@
 # Getting A Tech Job
 
+## Shortest path to getting jobs ?
 ## Platform to look for jobs
 
 - [linkedin.com](https://www.linkedin.com)
