@@ -19,8 +19,7 @@ The name of the repo followed the name of Naturalization test ["Leben In Deutsch
 1. [Arriving Germany](https://github.com/h-joo/life-in-germany/blob/main/Arriving_Germany.md) :information_source:
 1. [Studying in Germany](https://github.com/h-joo/life-in-germany/blob/main/Studying_In_Germany.md) :information_source:
 1. [Getting a Tech Job](https://github.com/h-joo/life-in-germany/blob/main/Getting_A_Tech_Job.md) :information_source:
-1. How do I know if I fit well in Germany? :thinking: 
-  1. Racism in Germany
+1. [How do I know if I fit well in Germany?](https://github.com/h-joo/life-in-germany/blob/main/Fitting_In_Germany.md) :thinking: 
 1. [Getting a Settlement Permit (Niederlassungserlaubnis)](https://github.com/h-joo/life-in-germany/blob/main/Getting_A_Settlement_Permit.md) :information_source:
 1. Which city should I live in Germany? :thinking: 
 1. Life Hacks and Tips
