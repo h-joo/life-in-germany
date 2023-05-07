@@ -1,4 +1,4 @@
-# Arriving Germany
+# Upon Arrival
 
 There is an exact sequence of steps that you need to take before you can do anything in Germany.
 
