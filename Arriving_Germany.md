@@ -56,13 +56,29 @@ People who earn lots of money I heard leave the public insurance for several rea
 
 I've never tried leaving the public health inusrance so I am not the best one to talk about this topic, so if you need to decided in between private or public I think you should be researching for yourself, but if you're just a regular software engineer don't think much about it and get a public one. I heard from many tech people choose TK, there are several options for public insurances (AOK, Bamer, TK, ...)
 
-## Get a residence permit ℹ️
+## Getting a residence permit ℹ️
 
 If you've done all the previous steps, you're finally reached the bare minimum for applying for a residence permit. There are many different type of permit, but I'm going to only list few that I think are relevant.
 
 - [Language Learning VISA](https://www.germany-visa.org/student-visa/language-course/)
 - [Student VISA](https://www.germany-visa.org/student-visa/)
-- [Job Seeking VISA I](https://www.germany-visa.org/job-seeker-visa/)
-- [Job Seeking VISA II](https://www.germany-visa.org/job-seeker-visa/)
-- [Job VISA](https://www.germany-visa.org/work-employment-visa/)
-- [Blue Card VISA](https://www.germany-visa.org/immigration-residence-permit/eu-blue-card-germany/)
+- [Job Seeking VISA](https://www.germany-visa.org/job-seeker-visa/)
+- [Job seeking VISA for German University Graduates](https://stadt.muenchen.de/service/info/hauptabteilung-ii-buergerangelegenheiten-auslaenderangelegenheiten/10260824/)
+- [Employment VISA](https://www.germany-visa.org/work-employment-visa/)
+- [Blue Card](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu)
+
+I've linked English sites to help understand the readers, but you SHOULD verify with the official German version for all in case anything has changed and thus might not be accurate. If you want to be a student you'll most likely follow the track of getting 
+
+- Language Learning -> Student -> Job Seeking for German Graduates -> Blue Card / Employment 
+
+If you already have a career, you'll most likely follow the track of 
+
+- Job Seeking -> Blue Card / Employment 
+
+if you're trying to look a job while being present in Germany. 
+
+Each of the link has whole information and what you need to apply, and it should be pretty straightforward, but one thing to note between the difference of job seeking for Germany university graudates and non-graduates is that you can actually work with the Job seeking visa if you have graduated from Germany, and it can be extended upto 18 months. 
+
+And maybe also one more thing to note, Germany is short on skilled workers and thus has a low migration hurdle due to the presence of Blue Card. If you are qualified for Blue Card and a working contract, your company doesn't have to do anything to convince or justify the immigration office or the labor office that they need you. 
+
+One hurdle that might get in the way is whether your university is recognized by the Geman govermant or your subject of study aligns to what the immigrant office expects - if you studied a hybrid topic such as Bio Information theory, it might not be fully accepted by the offices so you need to fight for it and need to justify or maybe need a lawyer to get through the process, but this happens rarely.
