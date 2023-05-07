@@ -16,7 +16,7 @@ TBD
 
 TBD
 
-## Strong labor protection laws :thinking:
+## Strong labor protection laws and less working hours :thinking:
 
 TBD
 
