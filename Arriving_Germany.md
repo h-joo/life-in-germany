@@ -8,7 +8,7 @@ Depending on whether you're eligible for 90 days of Schengen Visa or not, you'll
 
 ## Getting an apartment to live in ℹ️
 
-I've split this into another document, you can read about this in [Housing](https://github.com/h-joo/life-in-germany/blob/main/Housing.md)
+I've split this into another document as it's quite lengthy, you can read about this in [Housing](https://github.com/h-joo/life-in-germany/blob/main/Housing.md)
 
 ## Register at your City ( Wohnungsanmeldung ) ℹ️
 
@@ -23,6 +23,8 @@ Documents that you need bring is usually
 1. Your Passport
 
 The Wohnraumbescheinigung is a confirmation from the landlord saying that indeed you're the tenant of the written address. You can find the form usually by Googling "Wohnraumbescheinigung 'city name' formular". Upon registration in the office, you will be given the confirmation document "Anmeldungsbestätigung" of which you should always keep and maybe even want to store it in a digital form, as you will need this for VISA application and also for keeping the date of move in Germany. (Some VISA application form requires you to write the exact date you move in within Germany)
+
+On your first registration, you will be given a tax number ( [Steuernummer](https://de.wikipedia.org/wiki/Steuernummer) ) which you'll need when paying taxes. 
 
 ## Opening a bank Account ℹ️
 
