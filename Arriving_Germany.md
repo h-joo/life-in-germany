@@ -2,11 +2,21 @@
 
 There is an exact sequence of steps that you need to take before you can do anything in Germany.
 
+## Table Of Contents 
+- [Entering Germany](#entering-germany)
+- Get an apartment to live in
+  - Making Contact
+    - Contacting the landlords for individual apartments
+    - Contacting the main tenant (Hauptmieter/*-in) for shared apartements
+  - Apartment view (Besichtigungstermin)
+  - Apartment control and signing the rental contract.
+  - Alternatives
+
 ## Entering Germany ℹ️
 
 Depending on whether you're eligible for 90 days of Schengen Visa or not, you'll need to get a visa to enter Germany. Every country is different in this matter, so I'll not cover how you'd get a permit to enter Germany.
 
-## Get an apartment to live ℹ️
+## Get an apartment to live in ℹ️
 
 > **Warning** Looking for an apartment is difficult, espcially when you don't speak the language. In some of the platforms for apartment-searching there are scammers of which trying to ask you for money transfers in advance without showing you the room saying that they're currently living abroad or something like that. DO NOT transfer money to these people, these are most likely scammers that you'd never be able to get that money back again.
 
