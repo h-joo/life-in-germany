@@ -4,7 +4,7 @@
 
 ## Shortest path to getting jobs? 🤔
 
-## Platform to look for jobs ℹ️
+## Platform to look for jobs ℹ️🤔
 
 Here are the common platforms to look for tech jobs, and in my experience, if you're looking for an English speaking job, you'll most likely finding them on linkedin. 
 
@@ -20,6 +20,8 @@ I've tried honeypot, which is similar to talent.io, is a platform where active h
 Xing is a German jobs oriented platform, if you want to look for Germany speaking tech jobs, this is the place to go. Stepstone is similar in that sense, but it contains both German and English jobs. 
 
 Big companies sometimes do not offer jobs in these platforms, so you might want to go in their individual career site to apply for jobs.
+
+But in my experience, many of the English jobs are reposted in many different platforms, so using one - for me linkedin - many of the time made sense.
 
 ## Looking for salary information ℹ️
 
