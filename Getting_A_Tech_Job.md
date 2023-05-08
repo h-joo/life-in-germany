@@ -51,7 +51,7 @@ Xing is a German jobs oriented platform, if you want to look for Germany speakin
 
 Big companies sometimes do not offer jobs in these platforms, so you might want to go in their individual career site to apply for jobs.
 
-But in my experience, many of the English jobs are reposted in many different platforms, so using one - for me linkedin - many of the time made sense.
+But in my experience, many of the English jobs are reposted in many different platforms, so using a single platform - for me linkedin - most of the time made sense.
 
 ## Looking for salary information ℹ️
 
