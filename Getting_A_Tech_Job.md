@@ -25,12 +25,14 @@ But in my experience, many of the English jobs are reposted in many different pl
 
 ## Looking for salary information ℹ️
 
-- glassdoor
-- payscale.com
-- levels.fyi
-- Yearly reports from talent.io
+Here are some websites that you can look for salary information
 
-Google for "'company name' + 'title' + 'germany' + 'Salary'" 
+- [glassdoor](https://www.glassdoor.com)
+- [payscale.com](https://www.payscale.com/en-eu/)
+- [levels.fyi](https://levels.fyi)
+- [Yearly salary reports from talent.io](https://join.talent.io/tech-salary-report-en)
+
+But I think the easiest way is to google for "'company name' + 'title' + 'germany' + 'Salary'" (e.g. "SAP Senior Software Engineer Germany Salary")
 
 ## Applying for jobs ℹ️🤔
 ## Application process time🤔
