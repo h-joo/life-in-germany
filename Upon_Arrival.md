@@ -79,7 +79,9 @@ If you already have a career, you'll most likely follow the track of
 
 if you're trying to look a job while being present in Germany. 
 
-Each of the link has whole information and what you need to apply, and it should be pretty straightforward, but one thing to note between the difference of job seeking for German university graudates and non-graduates is that you can actually work with the Job seeking visa if you have graduated from Germany, and it can be extended upto 18 months. 
+Unlike the Blue Card being very specific about requirements and easy to get once you pass the requirements, to get a regular Employement VISA, (citation needed) your employer are obligated to provide reasons why you're hiring this person to the authorities. I think for tech job this is less difficult for compnaies because it's not a surprise that Germany is short of tech people, and I haven't heard from anyone (maybe selection bias) yet that they've got rejected due to any reason for Employment VISA.
+
+Each of the link above has whole requirements listed to apply, and it should be pretty straightforward, but one thing to note between the difference of job seeking for German university graudates and non-graduates is that you can actually work with the Job seeking visa if you have graduated from Germany, and it can be extended upto 18 months. 
 
 And maybe also one more thing to note, Germany is short on skilled workers and thus has a low migration hurdle due to the presence of Blue Card. If you are qualified for Blue Card and a working contract, your company doesn't have to do anything to convince or justify the immigration office or the labor office that they need you. 
 
