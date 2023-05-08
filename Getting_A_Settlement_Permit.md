@@ -11,7 +11,7 @@ As a software engineer or someone with a tech job, there can be several ways tha
 1. Without Blue Card and without a German Degree + 60 months of pension contribution.
 1. (Not going to discuss further) Been married to a German citizen for X years.
 
-Recently, the authorities started the applicants to take the test [Life in Germany](https://de.wikipedia.org/wiki/Einb%C3%BCrgerungstest), which wasn't mandatory before, but as I have experienced, the test itself is easy to prepare as it's just a set of questions being asked in a bigger pool of known questions. 
+Recently, the authorities started to enforce the applicants to take the test [Life in Germany](https://de.wikipedia.org/wiki/Einb%C3%BCrgerungstest), which wasn't mandatory before, but as I have experienced, the test itself is easy to prepare as it's just a set of questions being asked in a bigger pool of known questions. 
 
 Besides that, I don't think it's worth to have a comprehensive list of the required documents because it depends on the type of application and might also depend on the state, and it is subject to change, but here are some examples from the [Bayern state](https://www.eap.bayern.de/informationen/leistungsbeschreibung/769754656498) web-page : 
 
