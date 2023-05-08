@@ -24,6 +24,9 @@ TBD
 
 TBD
 
+## High income tax :thinking:
+TBD
+
 ## Healthcare system :thinking:
 
 TBD
