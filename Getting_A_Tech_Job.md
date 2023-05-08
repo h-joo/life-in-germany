@@ -8,7 +8,31 @@ I've seen some people trying to get a job with no career in tech, entering Germa
 
 If you have no plans to study, I recommend you to try to get a tech job in your own country and work for two to three years, and then moving to Germany. I feel this is the lower risk while you can still can get some working experience without having the risk of getting kicked out of the country.
 
-## Student jobs
+## Student jobs 🤔
+
+If you're studying or have a plan to study, getting a student job is a great stepstone to get a full time job. I don't have any statistics, but I hear from many people confirming this as a fact, that indeed a working student experience or an intership has became a stepstone for them, either being hired directly in the company they've worked in; or they used the experience as a career to step on and get a full time job. I myself was converted to a full time after a voulentary intership as well.
+
+Here are some different types of student jobs.
+
+- Mandatory internships (Praktikum)
+- Voulentary interships (Praktikum)
+- Working student (Werkstudent)
+- Auxiliary scientist (Hiwi)
+- .. and maybe more as TA in universities .. etc.
+
+All usually requires using "Working Hours", if you're under a student VISA you're given certain hours over the year that you can work for. (Citation needed) Please check the exact hours that you can work for, but I think it's 26 weeks if you're working half (20 hours).
+
+Mandatory internships are usually not paid, but (Citation needed) I heard that the legislation has recently changed that the companies need to pay the students. Anyways it was usually easier to get this kind of jobs as it costed nothing for the companies except for the resources going into educating the interns, and as this is considered as part of your study it's easier as you don't have to take extra time for it.
+
+Voulentary internships are paid internships, usually for a 6 months of period and full time. 
+
+Working student is unlimeted, part time work, and I've seen some people who works as a working student for years and becoming very proficient at software engineering, as well as finacially supporting themselves during their study. It isn't an insane amount of money that you can earn, but still much better than nothing. 
+
+Auxiliary scientist aka Hiwi is a student job you usually do at unversity's research institutes supporting the research. Due to this reason I see Masters students doing Hiwi jobs more frequently. I feel Hiwi jobs are nice, but maybe if you want to work in the industry the knowledge might not be immediately transferrable unless you want to get a job in research institutes. I feel working student in industry might be better in terms of getting a job in the industry. 
+
+To find student jobs, use platform like below, or there are university internal web-portals of which you can find job posting specifically targeting those students from your university.
+
+- [Student jobs at stepstone](https://www.stepstone.de/jobs/student-in?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1anEHY9GP0HJ59_dQMb5kq0ClBM1Doo5-q2wbxY881wcj0tO7i3OIaAkc0EALw_wcB&ef_id=Cj0KCQjwu-KiBhCsARIsAPztUF1anEHY9GP0HJ59_dQMb5kq0ClBM1Doo5-q2wbxY881wcj0tO7i3OIaAkc0EALw_wcB:G:s&cid=SEA_GO_DE-DE-JD%2FFUNC1---D%7C%5BA%5D_c_no%20discipline--%7CDIS000--_dynamic_RL_DSA1&loc_interest=&loc_physical=1004234&s_kwcid=AL!523!3!564573399345!!!g!!)
 
 ## Platform to look for jobs ℹ️🤔
 
@@ -41,9 +65,19 @@ Here are some websites that you can look for salary information
 But I think the easiest way is to google for "'company name' + 'title' + 'germany' + 'Salary'" (e.g. "SAP Senior Software Engineer Germany Salary")
 
 ## Applying for jobs ℹ️🤔
+
+There's no one-fits-all approach for applying for jobs. If you're an experienced software engineer, I guess you'd already know how to find your way though the process. I'll assume the readers are in the beginning side of their careers (0-3 years) and write based on that. 
+
+TBD
+
 ## Application process time🤔
+
+Usuaully the whole process will be in a scale of couple of weeks to months. You might also hear a couple weeks after your interview, when the HR people is on vacation or is during public holiday season. So please be patient, but if you feel it has been more than two weeks already and you're really in a hurry, writing a polite email to the recruiter might not be that harmful.
+
 ## Different working culture in different industries🤔
 
+This is a very big topic....
+TBD
 ## How to look for job trends ℹ️
 
 TBD
