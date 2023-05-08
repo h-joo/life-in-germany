@@ -30,3 +30,8 @@ Google for "'company name' + 'title' + 'germany' + 'Salary'"
 
 ## After getting a Job
 ### End-year tax declaration ℹ️
+TBD 
+
+### Dealing with layoffs ℹ️
+I hope this do not happen to you, but when there's some uncertainty in the economy this can happen.
+TBD...
