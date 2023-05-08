@@ -1,8 +1,14 @@
 # Getting a tech job ℹ️🤔
 
-## Student jobs
-
 ## Shortest path to getting jobs? 🤔
+
+I feel the shortest path to get a job in Germany as a foreigner is having two to three years of career in a high demand high supply tech stack then moving to Germany. Getting a job in a foreign country is always a risk, and you might end up wasting time due to many reasons.
+
+I've seen some people trying to get a job with no career in tech, entering Germany with a high risk. It is still possible to find a job but I feel this is too much high of a risk. Because usually the biggest obstacle of getting a tech job is not having a career or a tech background to begin with. 
+
+If you have no plans to study, I recommend you to try to get a tech job in your own country and work for two to three years, and then moving to Germany. I feel this is the lower risk while you can still can get some working experience without having the risk of getting kicked out of the country.
+
+## Student jobs
 
 ## Platform to look for jobs ℹ️🤔
 
