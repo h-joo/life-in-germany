@@ -30,7 +30,7 @@ Working student is unlimeted, part time work, and I've seen some people who work
 
 Auxiliary scientist aka Hiwi is a student job you usually do at unversity's research institutes supporting the research. Due to this reason I see Masters students doing Hiwi jobs more frequently. I feel Hiwi jobs are nice, but maybe if you want to work in the industry the knowledge might not be immediately transferrable unless you want to get a job in research institutes. I feel working student in industry might be better in terms of getting a job in the industry. 
 
-To find student jobs, use platform like below, or there are university internal web-portals of which you can find job posting specifically targeting those students from your university.
+To find student jobs, use platform like below, or see the below section for other platforms. There are also university internal web-portals of which you can find job posting specifically targeting those students from your university.
 
 - [Student jobs at stepstone](https://www.stepstone.de/jobs/student-in?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1anEHY9GP0HJ59_dQMb5kq0ClBM1Doo5-q2wbxY881wcj0tO7i3OIaAkc0EALw_wcB&ef_id=Cj0KCQjwu-KiBhCsARIsAPztUF1anEHY9GP0HJ59_dQMb5kq0ClBM1Doo5-q2wbxY881wcj0tO7i3OIaAkc0EALw_wcB:G:s&cid=SEA_GO_DE-DE-JD%2FFUNC1---D%7C%5BA%5D_c_no%20discipline--%7CDIS000--_dynamic_RL_DSA1&loc_interest=&loc_physical=1004234&s_kwcid=AL!523!3!564573399345!!!g!!)
 
