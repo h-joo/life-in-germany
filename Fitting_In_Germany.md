@@ -6,7 +6,7 @@ I have seem people who lived in their own countries for most of their lives (inc
 
 ## Weather in Germany :thinking:
 
-Depends on your percention of weather, but I haven't seen much people that says they like German weather. There's a saying in German : "Es gibt kein schlechtes Wetter nur schlechte Kleidung" meaning that there's no bad weather, and only exists the unfitting outfit. I've lived in a country with clear sky most of the year, and when it rains it pours, and in winter it's freezing cold but very dry. I've never understood the concept of appreciating the sun before moving to Germany, as the sun was something that can be taken as granted. 
+Depends on your percention of what a good weather is, but I haven't seen much people that says they like German weather. There's a saying in German : "Es gibt kein schlechtes Wetter nur schlechte Kleidung" meaning that there's no bad weather, and only exists the unfitting outfit. I've lived in a country with clear sky most of the year, and when it rains it pours, and in winter it's freezing cold but very dry. I've never understood the concept of appreciating the sun before moving to Germany, as the sun was something that can be taken as granted. 
 
 But after living in Germany for some years, I've changed as well. I started to appreciate the sun, go out and stay under the sun when I have the chance. When I was in the first year living in Berlin, I was so surprised that people just go out and tan naked under the sun. I've lived in West, North east, and South of Germany but in those different regions, one thing common is that you will always appreciate sun to some degree. But it's not really pouring when it's raining, it's mostly cloudly and drizzling most of the time. 
 
