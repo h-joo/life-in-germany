@@ -93,9 +93,9 @@ Usuaully the whole process will be in a scale of couple of weeks to months. You 
 
 Do your research in the early stage on what kind of jobs or tech stacks are popular in Germany. You can do this by simply searching for keywords for jobs in linkedin for a cetain amount of period. For instance, to talk about frontend frameworks, (Citation needed) there's a tendancy that German companies prefer Angular over other frameworks because many of the websites are for b2b. In some countries I heard, that for backend frameworks Java spring is dominating, and so on. So it is important that you might see that what you conceive as being popular might not be true in Germany and prepare for the popular tech stacks for your migration.
 
-## After getting a Job
+## After getting a Job ℹ️
 
-## Probation period in German jobs
+## Probation period in German jobs ℹ️
 
 Most German jobs has something called a probation period (Probezeit), of which either parties can cancel the working contract with a very short notice period within that duration. After you go beyond that period, for the company it gets very difficult to fire you, but of course you can quit easily with some notice period. The probation usually lasts for 6 months for permanent jobs (unbefristet), and is usually 3 months for 6 months internship.
 
