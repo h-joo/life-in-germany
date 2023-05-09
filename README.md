@@ -3,14 +3,14 @@
 > **Warning**
 > You should use this text as a general guide, but it cannot be a legal consultation. All of the information here is just meant to be a nice-to-know and also are subject to change. Thus the owner or contributor of this repository is not liable for any mis-information that is present and the reader should be the one verifying that the information is legit themselves before taking any legal actions or processes. 
 
-This is a documentation-style repository to provide an idea of what it's like to live in germany and also the process of migration for **tech people** who wants to settle in (or try out living in) Germany. The owner of this repository has studied computer science and been working as a software engineer in Germany for quite a while, and has struggled a lot and still in the contiunation of struggling as many things are just different. There are many good channels that you can ask for questions regarding life in Germany, but I feel I still haven't found a place where the whole process of settlement is organized, thus triggered me to create this repository.
+This is a documentation-style repository to provide an idea of what it's like to live in germany and also the process of migration for **tech people** who wants to settle in (or try out living in) Germany. The owner of this repository has studied computer science and been working as a software engineer in Germany for quite a while, and has struggled a lot and still in the contiunation of struggling as many things are just different. There are many good channels that you can ask for questions regarding life in Germany, but I feel I still haven't found a place where the whole process from decision making to finally settling down is organized, thus triggered me to create this repository.
 
-Of course, there can be multiple aspects of information providing, but to group in to two big categories, 
+The whole doc is targeted for people who've started to think about moving to Germany, and maybe some people who started to settle in Germany upto 3-6 months maximum. After that I think you should have learned enough about the life in Germany so you shouldn't usually be needing these.
+
+I've annotated each section with two different icons to tell whether something is discussing about a subjective or an objective matter. 
 
 1. :information_source: Things that can be objective (e.g. the process of getting a visa, getting registered and etc.)
 1. :thinking: Talking about things that are subjective or something based on personal experience without much data to back up.
-
-I'll try to distinguish those two cases and annotate with the icons (:information_source:, :thinking:)  that I used for each. 
 
 The name of the repo followed the name of the Naturalization test ["Leben In Deutschland"](https://de.wikipedia.org/wiki/Einb%C3%BCrgerungstest)
 
