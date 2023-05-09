@@ -14,7 +14,7 @@ Over the year the temperature is usually between -5 ~ 32 degrees, and there were
 
 Not something about weathers directly, but something about sun, if you have lived in somewhere in the latitude near Spain or Portugal, you wouldn't have notice this your entire life, but Summer has longer days and Winter has shorter. In Winter, sunset can be around 3:30 pm, and by the time to go back home after work, it's already pretty dark. This can be very depressing and many people suffers from Winter blues. So many of my non-German friends travels South during Winter, to be in a warmer and a sunny weather.
 
-## Traveling to nearby countries :thinking:
+## Traveling :thinking:
 
 TBD
 
