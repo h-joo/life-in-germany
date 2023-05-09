@@ -89,7 +89,7 @@ For writing a resume or doing interviews I think isn't much different from outsi
 
 Usuaully the whole process will be in a scale of couple of weeks to months. You might also hear a couple weeks after your interview, when the HR people is on vacation or is during public holiday season. So please be patient, but if you feel it has been more than two weeks already and you're really in a hurry, writing a polite email to the recruiter might not be that harmful.
 
-## Understand the discrepency of tech job popularity in different countries ℹ️
+## Understand the discrepency of tech stack popularity in different countries ℹ️
 
 Do your research in the early stage on what kind of jobs or tech stacks are popular in Germany. You can do this by simply searching for keywords for jobs in linkedin for a cetain amount of period. For instance, to talk about frontend frameworks, (Citation needed) there's a tendancy that German companies prefer Angular over other frameworks because many of the websites are for b2b. In some countries I heard, that for backend frameworks Java spring is dominating, and so on. So it is important that you might see that what you conceive as being popular might not be true in Germany and prepare for the popular tech stacks for your migration.
 
