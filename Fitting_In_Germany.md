@@ -30,7 +30,7 @@ This is one of the greatest benefits of working in Germany - the strong labor pr
  
 When you or your family gets sick, you can take a paid sick leave (at least for the software companies that I've seen) easily, without having to worry that it might affect your performance evaluation or getting fired. I worried too much in the beginning that it might affect my employement, but looking back, that was just being too paranoid due to the culture that I came from. I think it's a great system to make people rest, when they genuinely need it. 
 
-Labor protection is strong, (Citation Needed) it is not impossible to fire people but is still difficult to do so, I'm not a labor law expert so I'm not going to go into too much details, but generally the court is in favor of the workers, so the companies try to avoid going to the court for those reasons.
+Labor protection is strong, it is not impossible to fire people but is still difficult to do so, I'm not a labor law expert so I'm not going to go into too much details, (Citation Needed) but generally the court is in favor of the workers, so the companies try to avoid going to the court for those reasons.
 
 ## Bureaucracy in Germany :thinking:
 
