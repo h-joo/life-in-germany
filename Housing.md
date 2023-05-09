@@ -47,7 +47,7 @@ You might do the apartment view alone, or it can be like an open visit for many 
 
 ## Apartment control and signing the rental contract ℹ️
 
-On the day of signing the rental contract, you usually meet at your new apartment and do something called hand over protocol ([Übergabeprotokoll](https://de.wikipedia.org/wiki/Wohnungs%C3%BCbergabeprotokoll)) this process is extermently important as both parties are agreeing upon the condition of the apartment, and you will be writing down every flaw in the wall or pre-furnished items should be written down, so that when you're moving out, they're going to check this again and deduce the money based on the damage done to the properties. So try to be pickly on everything, there's no way to claim back once you've signed on the apartment control forumlar.
+On the day of signing the rental contract, you usually meet at your new apartment and do something called hand over protocol ([Übergabeprotokoll](https://de.wikipedia.org/wiki/Wohnungs%C3%BCbergabeprotokoll)) this process is extermently important as both parties are agreeing upon the condition of the apartment, and you will be writing down every flaw in the wall or pre-furnished items should be written down, so that when you're moving out, they're going to check this again and deduce the money based on the damage done to the properties. So try to be pickly on everything, there's no way to claim back once you've signed on the apartment control forumlar. You will also receive your key on this day, the number of keys are also part of the controll.
 
 ## Rent and Deposit ℹ️
 
@@ -75,6 +75,12 @@ Other alternatives for looking apartments can be online communities using your o
 ## Cancellation of the rental contract ℹ️
 
 It might not be explicit in the rental contract, but it is (Citation needed) assumed by the law that there is a 3 month of notice period of cancellation of your rental contract. Always keep in mind this period if you're trying to move to another city or an apartment, otherwise you'll have to pay for the remaining notice period if you move out earlier. To avoid this on a quick moveout, you can look for a next tenent ([NachMieter](https://de.wikipedia.org/wiki/Nachmieter)), but whether your landlord accepts this new person or not is totally up to their decision, and if they don't you'll still have to pay.
+
+## Importance of your apartment key ℹ️
+
+Very, Greatly, Vastly important. Please try not to lose your keys. In case you leave your apartment with keys inside, you'd need to call a keysmith which usually costs hundreds of Euros. 
+
+If you lose your apartment keys, it becomes a bit worse. In Germany, you're not allowed to duplicate keys without your landlords permission and they usually don't let you copy them. What happens when you lose is that you'd need to pay for the costs to replace the doorknob and the keys for the people living in the whole building, and this of course costs a lot. To prvent this situation, you usually can get a liability insurance (Haftpflichtversicherung) from check24, I think most of the should have the coverage for losing keys. I'll discuss about insurances in a different page.
 
 ## Moving out ℹ️
 
