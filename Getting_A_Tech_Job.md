@@ -97,6 +97,6 @@ Do your research in the early stage on what kind of jobs or tech stacks are popu
 
 ## Probation period in German jobs ℹ️
 
-Most German jobs has something called a probation period (Probezeit), of which either parties can cancel the working contract with a very short notice period within that duration. After you go beyond that period, for the company it gets very difficult to fire you, but of course you can quit easily with some notice period. The probation usually lasts for 6 months for permanent jobs (unbefristet), and is usually 3 months for 6 months internship.
+Most German jobs has a probation period (Probezeit), of which either parties can cancel the working contract with a very short notice period within that duration. After you go beyond that period for the company it gets very difficult to fire you, but of course you can quit easily with some notice period. The probation usually lasts for 6 months for permanent jobs (unbefristet), and is usually 3 months for 6 months internship.
 
 So people usually pay more attention to not be fired during this period, but it's also not that common to be fired as (usually) they take special care to hire the right person to begin with. 
