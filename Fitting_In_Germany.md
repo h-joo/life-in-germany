@@ -31,7 +31,14 @@ TBD
 TBD
 
 ## High income tax :thinking:
-TBD
+
+Income tax is high in Germany, it can range from [14% to 45%](https://www.iamexpat.de/expat-info/taxation/german-tax-system), and if you're not married you'll most likely pay 42% as a software engineer including your contribution to your pension your health insurance and your unemployment insurance. So the amount of money on your contract is pretty far away from what you will have in your bank account. If you get bonues, the tax on bonuses is higher than your regular income.
+
+If you're a couple, you can set your tax class differntly such that one pays 30% and the other pays 50%, which I feel decourages the other to work, but it's the way how it is. 
+
+So overall, I think if you want to make lots of savings, Germany might not be the best place for you, but if you agree your contribution as the income tax to the society is worth the cost and being used well, it might be a place for you.
+
+Here's a link to a [income tax calculator](https://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php)
 
 ## Healthcare system :thinking:
 
