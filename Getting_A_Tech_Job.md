@@ -74,11 +74,7 @@ TBD
 
 Usuaully the whole process will be in a scale of couple of weeks to months. You might also hear a couple weeks after your interview, when the HR people is on vacation or is during public holiday season. So please be patient, but if you feel it has been more than two weeks already and you're really in a hurry, writing a polite email to the recruiter might not be that harmful.
 
-## Different working culture in different industries🤔
-
-This is a very big topic....
-TBD
-## How to look for job trends ℹ️
+## Looking for job trends ℹ️
 
 TBD
 
