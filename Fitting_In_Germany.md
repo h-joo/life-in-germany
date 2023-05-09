@@ -18,13 +18,19 @@ Not something about weathers directly, but something about sun, if you have live
 
 TBD
 
-## Germanic culture :thinking:
+## German culture :thinking:
 
-TBD
+I thought I could write about this, but decided that you really cannot Generalize German culture in few sentences, since Germany is also a very-big-diverse country which have different culture in different regions. Also younger people are even more further away from what people consider as stereotypical German which are the people that I meet more often.
+
+But if you want to learn in depth, there are lots of youtube channels which talk about different cultures including German. One channel I often watch is [EasyGerman](https://www.youtube.com/@EasyGerman), you can search specifically for German culture as a keyword if you want to learn.
 
 ## Strong labor protection laws and less working hours :thinking:
 
-TBD
+This is one of the greatest benefits of working in Germany - the strong labor protection and less working hours. Some companies do 35 hours per week, and some upto usually 40 hours. (Citation needed) I heard the maximum hours that you can work in a week is 48 hours, but I've never seen any software company doing this. The minimum vacation days per year is 24 days, and many friends I've seen has 30 days. 
+ 
+When you or your family gets sick, you can take a paid sick leave (at least for the software companies that I've seen) easily, without having to worry that it might affect your performance evaluation or getting fired. I worried too much in the beginning that it might affect my employement, but looking back, that was just being too paranoid due to the culture that I came from. I think it's a great system to make people rest, when they genuinely need it. 
+
+Labor protection is strong, (Citation Needed) it is not impossible to fire people but is still difficult to do so, I'm not a labor law expert so I'm not going to go into too much details, but generally the court is in favor of the workers, so the companies try to avoid going to the court for those reasons.
 
 ## Bureaucracy in Germany :thinking:
 
