@@ -66,22 +66,35 @@ But I think the easiest way is to google for "'company name' + 'title' + 'german
 
 ## Applying for jobs ℹ️🤔
 
-There's no one-fits-all approach for applying for jobs. If you're an experienced software engineer, I guess you'd already know how to find your way though the process. I'll assume the readers are in the beginning side of their careers (0-3 years) and write based on that. 
+There's no one-fits-all approach for applying for jobs. If you're an experienced software engineer and have some expreinces of applying for companies, I guess you'd already know how to find your way though the process. So I'm going to talk about some specific things that you might not be aware of.
 
-TBD
+You can read the [which city to live](https://github.com/h-joo/life-in-germany/blob/main/Which_City_To_Live.md) page for more information about which cities that you want to live in, but if you already know or have moved to the city, change your linkedin profile to the city that you're living in. You'll get more messages from the recruiters and head hunters looking for candidates for their positions.
+
+When you're applying to companies, you might get less matches with companies if you're living outside of the country. I heard this several times, and also heard people recommending to be present in Germany if you want to apply for jobs here. If I would be on the companies' shoes, I think they think it as a risk to bring somebody from outside of the country as they don't know yet how well they fit culturally to the country and they might just leave soon if they feel unfit. Supporting relocation might also be a thing that they feel as a disadvantage compared to people already living in Germany. But still if you can get a job already before moving in Germany, I think that's the best because there should be no risk.
+
+For writing a resume or doing interviews I think isn't much different from outside of Germany maybe I feel this way because I don't know well enough of other countries, so just in case I'm wrong, here's the the types of interviews that I had in Germany.
+
+1. Knowledge verification technical interview
+1. Algo/DS style problem solving pair programming interview
+1. Walkthrough of my career style tech interview
+1. Presentation interviews
+1. Programming assignments and an explanation session
+1. Leetcode-style platform Algo/DS assignments
+1. Verification of understanding in programming languages style interview
+1. Behaviorual interview
 
 ## Application process time🤔
 
 Usuaully the whole process will be in a scale of couple of weeks to months. You might also hear a couple weeks after your interview, when the HR people is on vacation or is during public holiday season. So please be patient, but if you feel it has been more than two weeks already and you're really in a hurry, writing a polite email to the recruiter might not be that harmful.
 
-## Looking for job trends ℹ️
+## Understand the discrepency of tech job popularity in different countries ℹ️
 
-TBD
+Do your research in the early stage on what kind of jobs or tech stacks are popular in Germany. You can do this by simply searching for keywords for jobs in linkedin for a cetain amount of period. For instance, to talk about frontend frameworks, (Citation needed) there's a tendancy that German companies prefer Angular over other frameworks because many of the websites are for b2b. In some countries I heard, that for backend frameworks Java spring is dominating, and so on. So it is important that you might see that what you conceive as being popular might not be true in Germany and prepare for the popular tech stacks for your migration.
 
 ## After getting a Job
-### End-year tax declaration ℹ️
-TBD 
 
-### Dealing with layoffs ℹ️
-I hope this do not happen to you, but when there's some uncertainty in the economy this can happen.
-TBD...
+## Probation period in German jobs
+
+Most German jobs has something called a probation period (Probezeit), of which either parties can cancel the working contract with a very short notice period within that duration. After you go beyond that period, for the company it gets very difficult to fire you, but of course you can quit easily with some notice period. The probation usually lasts for 6 months for permanent jobs (unbefristet), and is usually 3 months for 6 months internship.
+
+So people usually pay more attention to not be fired during this period, but it's also not that common to be fired as (usually) they take special care to hire the right person to begin with. 
