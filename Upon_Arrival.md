@@ -68,6 +68,18 @@ For students you can be ensured by some private health insurance which are reall
  
 For the public health insurances, you pay proportional to your salary with a cap. Once you reach this cap you are elegible to switch to private insurances, and sometimes doctors have much shorter waiting times for people who have private insruaces and thus is the reason to leave the public one. I've never tried leaving the public health inusrance so I am not the best one to talk about this topic, so if you need to decided in between private or public I think you should be researching for yourself, but if you're just a regular software engineer don't think much about it and get a public one. I heard from many tech people choose TK, there are several options for public insurances (AOK, Bamer, TK, ...)
 
+### How to see a doctor
+
+I hope seeing a doctor should not be essential upon your arrival, but being sick and not knowing what to do in a foreign country is a frustrating experience, so I'll cover here how you look for a doctor.
+
+The first thing when you move to a new apartment is to find a house doctor (Hausarzt) which I think it corresponds to general practitioner in English. They may or may not accept new patients, so either you need to call but pick someone who's nearby, as the accessability is crucial for house doctors. 
+
+For people who haven't been in the system where you have General practitioner, the usual process of seeing a specialist (e.g. endocrinologist) is you tell your symptoms to a house doctor, and then they will write a doctor referral (Ärztliche Überweisung). This process is not always needed, but I do follow this unless its something urgent, as the house doctor will know specialists around you better than you. 
+
+Regarding language I've never seen a doctor in Germany who couldn't speak English, BUT the people in the reception in many case doesn't or wouldn't try to speak English, so usually it should be possible to describe your symptoms and instructions in English. But the biggest problem is that the other people in the practition (reception) might not or sometimes would not try to speak English, and thus can make a very stressful experience for you if you're trying to make an appointment with them over the phone. One way to avoid this stress is using doctolib - a platform where you can make a reservation for an appointment without having to talk to anyone. They have an app and website, so trying to look for doctors there might help. Also, you can try to read gogole maps review to see if there's any reviews in English, if there are, it might be an English speaker friendly place.
+
+If you have an appointment, and visiting the practition, you first need to show them your public insurance card (Gesundheitskarte), say you are visiting here for an appointment (e.g. "Ich habe einen Termin um 15 Uhr"), and you wouldn't need to say much more. In your first visit in any practition, depending on where you visit, you'd be asked to fill in some questionnaire in terms of your medical state, and the medication you take regularly. Ask them if they have an English form, but I find most of the case this isn't the case. You might want to use google lenz for translation in that case. 
+
 ## Getting a residence permit ℹ️
 
 > **Warning** Book for an appointment to get a residence permit as soon you decided to enter Germany. In the biggest cities (Berlin, Munich), they are mostly overbooked and sometimes it's not possible to get an appointment for within 3-6 months, so it's important that whenever you know that you need to apply for a residence permit, you immediately book it much ahead of time. You can search for "City name + Ausländerbehörde + termin" to look for application sites for appointments.
