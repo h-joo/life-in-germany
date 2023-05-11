@@ -50,7 +50,13 @@ Here's a link to a [income tax calculator](https://www.brutto-netto-rechner.info
 
 ## Healthcare system :thinking:
 
-TBD
+Being healthy is an important factor of you being happy, and I guess it's worth mentioning how I feel about healthcare system in Germany. 
+
+To have an overall summary, I think Germany generally has a good healthcare system. The coverage of the public health insurance is really broad. Most of the time you wouldn't have to pay anything to see a doctor, and for medication you usually will be paying 5 Euros or more depending on the coverage but I feel this is really not that much. 
+
+Due to the coverage being huge, the system lean towards avoiding overtreatment because it only costs more. And I'm not sure what the exact cause for here, but I'm guessing the huge coverage also contributes to this, which is, you have to wait very long to see a doctor for many cases   
+
+
 
 ## Raising children :thinking:
 
