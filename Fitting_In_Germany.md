@@ -50,13 +50,15 @@ Here's a link to a [income tax calculator](https://www.brutto-netto-rechner.info
 
 ## Healthcare system :thinking:
 
-Being healthy is an important factor of you being happy, and I guess it's worth mentioning how I feel about healthcare system in Germany. 
+Being healthy is an important factor of you being happy, and I guess it's worth mentioning how I feel about healthcare system in Germany. Please take this with a grain of salt as I'm not a medical expert, and my reference point of medical systems are what I have experienced in Korea. If you want to learn about how to get medical treatments - see [Upon arrival](https://github.com/h-joo/life-in-germany/blob/main/Upon_Arrival.md) page.
 
 To have an overall summary, I think Germany generally has a good healthcare system. The coverage of the public health insurance is really broad. Most of the time you wouldn't have to pay anything to see a doctor, and for medication you usually will be paying 5 Euros or more depending on the coverage but I feel this is really not that much. 
 
-Due to the coverage being huge, the system lean towards avoiding overtreatment because it only costs more. And I'm not sure what the exact cause for here, but I'm guessing the huge coverage also contributes to this, which is, you have to wait very long to see a doctor for many cases   
+Due to the coverage being huge, the system lean towards avoiding overtreatment because it only costs more. And I'm not sure what the exact cause for here, but I'm guessing the huge coverage also contributes to this, which is, you have to wait very long to see a doctor for many cases (weeks to months) so friends of mine make jokes about the long waiting time that by the time you reach your appointment day the problem is gone already or it has become much worse because you've missed a timely treatment. This is I think one thing that I can complain about the medical system in Germany. One example that I can give, since covid, in bigger cities it has been almost impossible to psychiatrist or a psychotherapist unless you're in an urgent situation, they're mostly fully booked and wouldn't accept patients, they ask you to call back after X months, but they repeat the same thing after that X months. 
 
+In terms of how good the quality of medical services are, I also can't judge because I'm not a doctor myself, but I occasionally hear from my Korean friends, of that Germany is good when it comes to a live saving matter, but if it's reducing pain or making something better, it can use some improvements, especially if it's something about dental issues or if it's something related to relevaing pain, they said Korea is a better place to get medical treatment for. 
 
+I'm a bit hesitent to add more, becuase I haven't been really sick in Germany so I myself cannot really share in-depth experience about the medical system, but so far I'm pretty satisfied.
 
 ## Raising children :thinking:
 
