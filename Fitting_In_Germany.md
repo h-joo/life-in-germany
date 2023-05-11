@@ -22,9 +22,24 @@ If you haven't been in Europe, there's simply just too many places that you can 
 
 ## German culture and society :thinking:
 
+### German culture
+
 I thought I could write about this, but decided that you really cannot Generalize German culture in few sentences, since Germany is also a very-big-diverse country which have different culture in different regions. Also younger people are even more further away from what people consider as stereotypical German which are the people that I meet more often.
 
 But if you want to learn in depth, there are lots of youtube channels which talk about different cultures including German. One channel I often watch is [EasyGerman](https://www.youtube.com/@EasyGerman), you can search specifically for German culture as a keyword if you want to learn.
+
+### German society
+
+This is a very broad word, but I just wanted to talk about my perception of the direction of German society by providing some examples. 
+
+Germany has a [social market economy](https://en.wikipedia.org/wiki/Social_market_economy) which is kinda self explanatory of how Germany is like. Compared to what I've seen in Korea, I feel the system is much humane in Germany in many ways, and people can live with more dignity even for the people in the lowest places in the economy. Of course there's a cost of this, you pay more tax in General. If you're in the higher end of the income, it might be less attractive to you. 
+
+VAT is 19% for regular goods and 7% for something that's considered to be essential (food, water, books). I was surprised how much tax is included in when I'm buying electonical equipment such as laptops or smartphones. 
+
+Germany has strong tenant protection, labor protection and good unemployment insurance and so on; so in general it's more in favor of the people compared to other countries which might be more friendly towards capital. The reason why I'm staying longer here is I generally agree with the idea of the system in Germany. Another example of system favoring the well being of people is that you also have a regulation of how the big seating space in the office for a person should be, and it is pretty large. 
+
+I can imagine that the company owners might not be in favor Germany because due to many regulations being more favoring towards people, and they might sometimes feel the system is unfair towards them. But I think it's a good strategy as micro-tayloring regulations towards a "perfect" state is impossible 
+and leaving less space for malice use of the law can happen less if the system is conservative towards cases where it can potentially harm people.
 
 ## Strong labor protection laws and less working hours :thinking:
 
