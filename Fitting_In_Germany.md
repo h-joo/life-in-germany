@@ -16,9 +16,11 @@ Not something about weathers directly, but something about sun, if you have live
 
 ## Traveling :thinking:
 
-TBD
+There's lots of countries that we shares a border with. To the west, there's Netherlands, Belgium and France, and to the East are Poland, Czech Republic,  to the south there's Austria Switzerland and finally to the north we have Denmark. As a person who lived in a country which is like an Island, this is a great benefit to have - being able to travel to nearby countries by car or by train or even buses. 
 
-## German culture :thinking:
+If you haven't been in Europe, there's simply just too many places that you can travel either by land or by plane.
+
+## German culture and society :thinking:
 
 I thought I could write about this, but decided that you really cannot Generalize German culture in few sentences, since Germany is also a very-big-diverse country which have different culture in different regions. Also younger people are even more further away from what people consider as stereotypical German which are the people that I meet more often.
 
@@ -26,7 +28,7 @@ But if you want to learn in depth, there are lots of youtube channels which talk
 
 ## Strong labor protection laws and less working hours :thinking:
 
-This is one of the greatest benefits of working in Germany - the strong labor protection and less working hours. Some companies do 35 hours per week, and some upto usually 40 hours. (Citation needed) I heard the maximum hours that you can work in a week is 48 hours, but I've never seen any software company doing this. The minimum vacation days per year is 24 days, and many friends I've seen has 30 days. 
+This is one of the greatest benefits of working in Germany - the strong labor protection and less working hours. Some companies do 35 hours per week, and some upto usually 40 hours. (Citation needed) I heard the maximum hours that you can work in a week is 48 hours, but I've never seen any software company doing this. The minimum vacation days per year is 24 days for people working 6 days and 20 days for 5 days workers, and me and many of friends I've seen has 30 days. 
  
 When you or your family gets sick, you can take a paid sick leave (at least for the software companies that I've seen) easily, without having to worry that it might affect your performance evaluation or getting fired. I worried too much in the beginning that it might affect my employement, but looking back, that was just being too paranoid due to the culture that I came from. I think it's a great system to make people rest, when they genuinely need it. 
 
