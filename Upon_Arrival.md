@@ -40,9 +40,9 @@ On your first registration, you will be given a tax number ( [Steuernummer](http
 
 ## Opening a bank Account ℹ️
 
-For non-online banks, you are required to have an registered address and thus a "Anmeldungsbestätigung" to be able to create a bank account. For online banks it's usually not required, but they might not accept your passport depending on where you come from, or whether your passport is a bit old (e.g. when countries change their shape of the passport and thus have a new "shape").
+For non-online banks, you are required to have an registered address and thus a "Meldungsbestätigung" to be able to create a bank account. For the two online banks it's not required to provide them, but they might not accept your passport depending on where you come from, or whether your passport is a bit old (e.g. when countries change their shape of the passport and thus have a new "shape").
 
-The following two banks are well known online banks, I will not discuss the individual benefits of different banks as they're subject to change.
+The following two banks are well known online banks and fintech, I will not discuss the individual benefits of different banks as they're subject to change.
 
 - N26
 - Vivid
@@ -56,7 +56,7 @@ There are also many big non-online banks such as
 - Volksbank
 - ... and many other banks
 
-I hear from many different people, but I feel people have their reasons for their dislike and like some banks, so I won't be recommending one bank, but one thing to note that is Sparkasse is a local bank, meaning that you cannot withdraw money from a different regional Sparkasse. 
+I hear from many different people, but I feel people have their reasons for their dislike and like some banks, so I won't be recommending one and leave you decide for your own. 
 
 It is usually possible in a bigger branches of these banks to find a person who speaks English, so the language usually isn't a problem. The number of branches in your town might also help decide which bank you want to open an account for if you want to withdraw money regulalrly, as I think it has been a bit rarer nowadays, but even just a couple years ago, there were some restaurants and shops that wouldn't accept debit or credit cards so you were forced to use cash sometimes.
 
@@ -66,9 +66,7 @@ Although I feel the health system in Germany is a bit slow (i.e. difficult to ge
 
 For students you can be ensured by some private health insurance which are really cheap, but they have less coverages and the process of getting your money back is sometimes a pain. I would suggest rather not get into cheap private health insurances if you can offord the public ones. 
  
-People who earn lots of money I heard leave the public insurance for several reasons, sometimes there are doctors who has much less waiting time for the bit expensive private insurances, but since the amount of money you pay for public health insurance is proportional to your salary, you might actually pay less for these private health insurances.
-
-I've never tried leaving the public health inusrance so I am not the best one to talk about this topic, so if you need to decided in between private or public I think you should be researching for yourself, but if you're just a regular software engineer don't think much about it and get a public one. I heard from many tech people choose TK, there are several options for public insurances (AOK, Bamer, TK, ...)
+For the public health insurances, you pay proportional to your salary with a cap. Once you reach this cap you are elegible to switch to private insurances, and sometimes doctors have much shorter waiting times for people who have private insruaces and thus is the reason to leave the public one. I've never tried leaving the public health inusrance so I am not the best one to talk about this topic, so if you need to decided in between private or public I think you should be researching for yourself, but if you're just a regular software engineer don't think much about it and get a public one. I heard from many tech people choose TK, there are several options for public insurances (AOK, Bamer, TK, ...)
 
 ## Getting a residence permit ℹ️
 
