@@ -6,6 +6,18 @@ There is an exact sequence of steps that you need to take before you can do anyt
 
 Depending on whether you're eligible for 90 days of Schengen Visa or not, you'll need to get a visa to enter Germany. Every country is different in this matter, so I'll not cover how you'd get a permit to enter Germany.
 
+## Getting a USIM card for your smartphone
+
+It's difficult to do anything nowadays without an internet connection on your phone. There are many smartphone network providers with different options. I have been always with same prepaid Vodafone since the beginning, and hadn't much complaint except you don't have few data per month. I can't give much recommendations but as far as I know there are big three providers
+
+- Telekom
+- O2
+- Vodafone
+
+and other small providers which uses these connections to provide their own services.
+
+To be honest, I don't have much idea either on the coverage or the speed, because I hadn't used them at all, so if you want to consider your options, visit check24 or google for information about mobile network providers. But I think going to the offline shops to talk to somebody who can speak English is the easiest way to get your mobile network working (you'll be required to show your passport). There are prepaid sim cards that you can get from supermarkets (e.g. ALDI talk) but I heard sometimes these were not very easy to use because they needed some verification step which requires doing a call to register.
+
 ## Getting an apartment to live in ℹ️
 
 I've split this into another document as it's quite lengthy, you can read about this in [Housing](https://github.com/h-joo/life-in-germany/blob/main/Housing.md)
