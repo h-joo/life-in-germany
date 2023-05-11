@@ -6,7 +6,7 @@ There is an exact sequence of steps that you need to take before you can do anyt
 
 Depending on whether you're eligible for 90 days of Schengen Visa or not, you'll need to get a visa to enter Germany. Every country is different in this matter, so I'll not cover how you'd get a permit to enter Germany.
 
-## Getting a USIM card for your smartphone
+## Getting a SIM card for your smartphone
 
 It's difficult to do anything nowadays without an internet connection on your phone. There are many smartphone network providers with different options. I have been always with same prepaid Vodafone since the beginning, and hadn't much complaint except you don't have few data per month. I can't give much recommendations but as far as I know there are big three providers
 
