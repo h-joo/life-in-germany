@@ -1,6 +1,6 @@
-# Studying in Germany
+# Studying in Germany ℹ️ 
 
-> ℹ️  Please note that the admission process and requirements can vary depending on the institute, study program, nationality of applicants and personal situation.
+>  Please note that the admission process and requirements can vary depending on the institute, study program, nationality of applicants and personal situation.
 
 ## Types of (public) universities
 - University (Universität) : focus on academic research and theory.
@@ -40,11 +40,22 @@ Attention: Documents are usually need to be submitted as "certificed copies" ins
 The certification process can vary depending on the document and the issuing authority, so it is important to check the specific requirements for each situation.
 
 
-### After aceptace 
+### After aceptance 
 
 ## University life
 
+### Orientation
+
+There will be some sort of orientation to let you know about the, you'll usually be told on how to register for exams and so on, so don't miss out as you can consider yourself new to this system and need to familiarize with it.
+
+### Registration of exams
+
+Unlike in other countries, you need to register for the exam, rather than registering for a course. There's something called a Prüfungsamt (examination office) in Universities, and you need to either go there to register for exams but maybe your university might also have a website that you can deal with it.This was the most confusing part for me.
+
 ### Course
+
+There are usually no attendance check in German University courses.
+- TBD
 
 ### Student benefits
 
