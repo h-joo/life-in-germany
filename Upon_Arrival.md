@@ -83,6 +83,7 @@ If you have an appointment, and visiting the practition, you first need to show 
 ## Getting a residence permit ℹ️
 
 > **Warning** Book for an appointment to get a residence permit as soon you decided to enter Germany. In the biggest cities (Berlin, Munich), they are mostly overbooked and sometimes it's not possible to get an appointment for within 3-6 months, so it's important that whenever you know that you need to apply for a residence permit, you immediately book it much ahead of time. You can search for "City name + Ausländerbehörde + termin" to look for application sites for appointments.
+> There has been [a reform at 2023-06](https://www.reddit.com/r/germany/comments/14jhbha/germanys_immigration_reform_2023_update/) which lowers the hurdle for immigrants. Read the German version for more info.
 
 If you've done all the previous steps, you're finally reached the bare minimum for applying for a residence permit. There are many different type of permit, but I'm going to only list few that I think are relevant.
 
