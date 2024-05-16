@@ -21,7 +21,7 @@ The name of the repo followed the name of the Naturalization test ["Leben In Deu
 1. [Getting a Tech Job](Getting_A_Tech_Job.md) :information_source:
 1. [Getting a Settlement Permit (Niederlassungserlaubnis)](Getting_A_Settlement_Permit.md) :information_source:
 1. [Life Hacks and Tips](Life_Hacks_And_Tips.md) :information_source: :thinking:
-1. [Getting a Drivers License](Life_Hacks_And_Tips.md) :information_source:
+1. [Getting a Drivers License](Drivers_License.md) :information_source:
 1. [How do I know if I fit well in Germany?](Fitting_In_Germany.md) :thinking: 
 1. [Which city should I live in Germany?](Which_City_To_Live.md) :thinking: 
 1. Insurances (TBD)
