@@ -20,7 +20,7 @@ To be honest, I don't have much idea either on the coverage or the speed, becaus
 
 ## Getting an apartment to live in ℹ️
 
-I've split this into another document as it's quite lengthy, you can read about this in [Housing](https://github.com/h-joo/life-in-germany/blob/main/Housing.md)
+I've split this into another document as it's quite lengthy, you can read about this in [Housing](Housing.md)
 
 ## Register at your City ( Wohnungsanmeldung ) ℹ️
 

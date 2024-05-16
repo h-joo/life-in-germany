@@ -65,7 +65,7 @@ Here's a link to a [income tax calculator](https://www.brutto-netto-rechner.info
 
 ## Healthcare system :thinking:
 
-Being healthy is an important factor of you being happy, and I guess it's worth mentioning how I feel about healthcare system in Germany. Please take this with a grain of salt as I'm not a medical expert, and my reference point of medical systems are what I have experienced in Korea. If you want to learn about how to get medical treatments - see [Upon arrival](https://github.com/h-joo/life-in-germany/blob/main/Upon_Arrival.md) page.
+Being healthy is an important factor of you being happy, and I guess it's worth mentioning how I feel about healthcare system in Germany. Please take this with a grain of salt as I'm not a medical expert, and my reference point of medical systems are what I have experienced in Korea. If you want to learn about how to get medical treatments - see [Upon arrival](Upon_Arrival.md) page.
 
 To have an overall summary, I think Germany generally has a good healthcare system. The coverage of the public health insurance is really broad. Most of the time you wouldn't have to pay anything to see a doctor, and for medication you usually will be paying 5 Euros or more depending on the coverage but I feel this is really not that much. 
 
