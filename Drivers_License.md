@@ -62,7 +62,7 @@ The second part is actual driving. The instructor will tell you where to turn, w
 
 ## B197 
 
-Although I did fully automatic transmission, if you intend to also drive manual cars you might want to get B197. The process is exactly the same, and after  doing 10 additional driving hours with manual transmission, do the exam with an automatic car, then you will have a license for both. I didn't do it because it was just too stressful with manual transmission, and I didn't want to pay more for a skill that I'm not sure I'm going to use frequently.  
+Although I did fully automatic transmission, if you intend to also drive manual cars you might want to get B197. The process is almost the same, except for an 10 additional driving hours with manual transmission. After that do the exam with an automatic car, then you will have a license for both. I didn't do it because it was just too stressful with manual transmission, and I didn't want to pay more for a skill that I'm not sure I'm going to use frequently.  
 
 ## Helpful resources
 
