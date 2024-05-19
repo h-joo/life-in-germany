@@ -8,7 +8,8 @@ As getting a driver's license is a long process and costs a lot while doing it f
 
 Use the chrome-builtin google translate functionality to translate to your own language. But `Klasse` column means the [type of drivers license](https://bmdv.bund.de/SharedDocs/EN/Articles/StV/Roadtraffic/driving-licence-categories-overview.html), `theoretische Prüfung` and `praktische Prüfung` column means whether you need to do additional exam for theory and practical, respectively.
 
-Note that you cannot convert your driving license 12 months (Citation needed) after you've moved into Germany, so it's better to plan everything ahead.
+Note that you cannot convert your driving license after 12 months (citation needed) you've moved into Germany, or if you have aquired the foreign license after you moved to Germany with an exception of visiting outside of a foreign country 
+ [for longer than 6 months](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.507450.php). So it's better to plan everything ahead.
 
 ## The full process for getting a drivers license from scratch (in exact order)
 
